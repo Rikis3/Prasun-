@@ -1,0 +1,8 @@
+#include<iostream>
+#include<conio>
+void main()
+{
+cout<<"Hello"<<endl;
+cout<<"I'm new to programming";
+getch();
+}
